@@ -44,9 +44,23 @@ extracurricular activities, and exam scores.
   - False Negatives: 55
 - Recall (high performers): 91%
 
+## Visualizations
+
+## Exam Score Distribution
+![Exam Score Distribution](graphs/exam_score_distribution.png)
+## Study Hours vs Exam Score
+![Study Hours vs Exam Score](graphs/study_hours_vs_exam_score.png)
+## Parental Involvement vs Exam Score
+![Parental Involvement](graphs/parental_involvement.png)
+## Access to Resources vs Exam Score
+![Access to Resources](graphs/access_to_resources.png)
+## Extracurricular Activities vs Exam Score
+![Extracurricular Activities](graphs/influence_of_extracurricular_activities.png)
+## Teacher Quality vs Exam Score
+![Teacher Quality](graphs/influence_of_teacher.png)
+
 ## Tech Stack
 Python, pandas, matplotlib, seaborn, scikit-learn, Jupyter
-
 
 ## Author
 Mohammed Zabin Shukkoor
