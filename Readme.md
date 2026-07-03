@@ -44,19 +44,30 @@ extracurricular activities, and exam scores.
   - False Negatives: 55
 - Recall (high performers): 91%
 
+## Real World Impact
+
+This analysis goes beyond numbers — it has direct applications:
+
+- **Schools** can identify at-risk students early, before exams, and intervene in time
+- **Parents** can see data-backed evidence that their involvement directly impacts outcomes
+- **Governments & school boards** can justify funding decisions (libraries, internet, tutoring) with evidence rather than assumptions
+- **EdTech companies** can personalize learning platforms based on predicted performance profiles
+
+Most educational decisions are still made on intuition. This project demonstrates how data can shift that toward evidence-driven strategies — identifying *what actually drives performance* rather than guessing.
+
 ## Visualizations
 
-## Exam Score Distribution
+### Exam Score Distribution
 ![Exam Score Distribution](graphs/exam_score_distribution.png)
-## Study Hours vs Exam Score
+### Study Hours vs Exam Score
 ![Study Hours vs Exam Score](graphs/study_hours_vs_exam_score.png)
-## Parental Involvement vs Exam Score
+### Parental Involvement vs Exam Score
 ![Parental Involvement](graphs/parental_involvement.png)
-## Access to Resources vs Exam Score
+### Access to Resources vs Exam Score
 ![Access to Resources](graphs/access_to_resources.png)
-## Extracurricular Activities vs Exam Score
+### Extracurricular Activities vs Exam Score
 ![Extracurricular Activities](graphs/influence_of_extracurricular_activities.png)
-## Teacher Quality vs Exam Score
+### Teacher Quality vs Exam Score
 ![Teacher Quality](graphs/influence_of_teacher.png)
 
 ## Tech Stack
